@@ -8,7 +8,12 @@
     - https://tailwindcss.com/docs/box-shadow
 
 ## Promises :-
-- A JavaScript Promise object contains both the producing code and calls to the consuming code:
+- A JavaScript Promise object contains both the producing code and calls to the consuming code.
+- A JavaScript Promise object can be:
+
+    Pending
+    Fulfilled
+    Rejected
     - Link to Resources :-
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
     - https://www.w3schools.com/js/js_promise.asp
