@@ -1,5 +1,4 @@
 # Notes of this projects/Topics use in this projects/Topics I learn
-
 ## Box-Shadow :-
 - Default Value :- None
 - syntax - `box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;`
