@@ -8,12 +8,11 @@
 
 ## Promises :-
 - A JavaScript Promise object contains both the producing code and calls to the consuming code.
-- A JavaScript Promise object can be:
-
-    Pending
-    Fulfilled
-    Rejected
-    - Link to Resources :-
+- A Promise is in one of these states :-
+    - pending: initial state, neither fulfilled nor rejected.
+    - fulfilled: meaning that the operation was completed successfully.
+    - rejected: meaning that the operation failed.
+- Link to Resources :-
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
     - https://www.w3schools.com/js/js_promise.asp
     - https://www.geeksforgeeks.org/javascript-promises/
